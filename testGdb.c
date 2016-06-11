@@ -1,5 +1,6 @@
 #include <stdio.h>
 //declare
+// add another comments
 void sum(int m);
 
 void main ()
