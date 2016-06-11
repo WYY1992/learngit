@@ -1,6 +1,7 @@
 #include <stdio.h>
 //declare
 // add another comments
+// git add
 void sum(int m);
 
 void main ()
